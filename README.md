@@ -1,8 +1,8 @@
-Hi 👋 I'm Chiran Ranasinghe 
-================================== 
-PASSIONATE SOFTWARE ENGINEERING | CODE CREATOR 
-----------------------------------------------  
-As a movated undergraduate student in Informaon Technology, I have developed a solid foundaon in programming languages, soware design principles, and project management methodologies. My drive to create innovave and efficient soluons has fueled my academic success and personal projects. I am enthusiasc about applying my skills and knowledge in praccal sengs to contribute to the technology industry. I have full confidence in my ability to thrive in a team-oriented environment, effecvely communicate, and think crically, making me a valuable asset to any organizaon. Addionally, I possess strong interpersonal skills and excel in collaborang with others, building relaonships with team members, stakeholders, and clients. I am thrilled at the prospect of ulizing my experse in a professional seng and acvely contribung to the advancement of the technology industry. Furthermore, I am dedicated to connuous learning and skill development, always staying at the forefront of emerging technologies and trends. 
+Hi 👋 My name is Chiran Ranasinghe
+==================================  
+PASSIONATE SOFTWARE ENGINEERING | CODE CREATOR
+---------------------------------------------- 
+As a movated undergraduate student in Informaon Technology, I have developed a solid foundaon in programming languages, soware design principles, and project management methodologies. My drive to create innovave and efficient soluons has fueled my academic success and personal projects. I am enthusiasc about applying my skills and knowledge in praccal sengs to contribute to the technology industry. I have full confidence in my ability to thrive in a team-oriented environment, effecvely communicate, and think crically, making me a valuable asset to any organizaon. Addionally, I possess strong interpersonal skills and excel in collaborang with others, building relaonships with team members, stakeholders, and clients. I am thrilled at the prospect of ulizing my experse in a professional seng and acvely contribung to the advancement of the technology industry. Furthermore, I am dedicated to connuous learning and skill development, always staying at the forefront of emerging technologies and trends.  
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [chirancranasinghe2001@gmail.com](mailto:chirancranasinghe2001@gmail.com)
 * 🧠  I'm learning I'm learning Node.js
@@ -30,19 +30,3 @@ As a movated undergraduate student in Informaon Technology, I have developed a s
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/chirancrany"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-### Hi there 👋
-
-<!--
-**Chiran-Ranasinghe/Chiran-Ranasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
