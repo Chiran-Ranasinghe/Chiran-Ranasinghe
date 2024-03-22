@@ -1,4 +1,4 @@
-Hi 👋 My name is Chiran Ranasinghe
+Hi 👋 I'm Chiran Ranasinghe
 ==================================  
 PASSIONATE SOFTWARE ENGINEERING | CODE CREATOR
 ---------------------------------------------- 
